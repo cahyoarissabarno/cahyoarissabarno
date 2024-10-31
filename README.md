@@ -7,8 +7,9 @@
   <img height="200em" src="https://raw.githubusercontent.com/cahyoarissabarno/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
   <img height="200em" src="https://raw.githubusercontent.com/cahyoarissabarno/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </div>
-
-[![Skills](https://skillicons.dev/icons?i=docker,python,typescript,nodejs,react,mongodb,tailwind,kafka&theme=dark)](https://skillicons.dev)
+<div align="center">
+  <img height="200em" src="https://skillicons.dev/icons?i=docker,python,typescript,nodejs,react,mongodb,tailwind,kafka&theme=dark"/>
+</div>
 
 ## Reach me on :
 <a href = "mailto:cahyoarissabarno@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
