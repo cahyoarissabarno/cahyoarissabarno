@@ -4,8 +4,8 @@
   <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=cahyoarissabarno&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 <div align="center">
-  <img height="190em" src="https://raw.githubusercontent.com/cahyoarissabarno/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
-  <img height="190em" src="https://raw.githubusercontent.com/cahyoarissabarno/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
+  <img height="200em" src="https://raw.githubusercontent.com/cahyoarissabarno/github-stats/master/generated/overview.svg#gh-dark-mode-only"/>
+  <img height="200em" src="https://raw.githubusercontent.com/cahyoarissabarno/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </div>
 
 [![Skills](https://skillicons.dev/icons?i=docker,python,typescript,nodejs,react,mongodb,tailwind,kafka&theme=dark)](https://skillicons.dev)
