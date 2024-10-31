@@ -8,7 +8,7 @@
   <img height="200em" src="https://raw.githubusercontent.com/cahyoarissabarno/github-stats/master/generated/languages.svg#gh-dark-mode-only"/>
 </div>
 <div align="center">
-  <img height="50em" src="https://skillicons.dev/icons?i=docker,python,typescript,nodejs,react,mongodb,tailwind,kafka&theme=dark"/>
+  <img height="50em" src="https://skillicons.dev/icons?i=docker,python,typescript,nodejs,react,tailwind,kafka,arduino,bun,ipfs,solidity,raspberrypi&theme=dark"/>
 </div>
 
 ## Reach me on :
